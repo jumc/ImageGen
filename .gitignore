@@ -1,2 +1,5 @@
 venv
 generatedImgs
+generatedImgsSelected
+imagenetSamples
+__pycache__
