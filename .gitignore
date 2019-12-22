@@ -3,3 +3,8 @@ generatedImgs
 generatedImgsSelected
 imagenetSamples
 __pycache__
+yolo
+VOC2012
+imagenet_labels.py
+resnet50_weights_tf_dim_ordering_tf_kernels.h5
+yolo_model.h5
